@@ -11,6 +11,7 @@ public abstract class Raza {
         this.name = name;
         this.language = language;
         this.alignment = alignment;
+        this.age = age;
     }
 
     public String getName() {
